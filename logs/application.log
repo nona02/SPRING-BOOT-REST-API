@@ -1,0 +1,28 @@
+"?2022-09-02 12:57:10? - Starting RestApiApplication using Java 18.0.1.1 on DESKTOP-9H43LLS with PID 2020 (E:\JAVA DEVELOPER INTERNSHIP\rest\target\classes started by DELL in E:\JAVA DEVELOPER INTERNSHIP\rest)
+""?2022-09-02 12:57:10? - No active profile set, falling back to 1 default profile: "default"
+""?2022-09-02 12:57:13? - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""?2022-09-02 12:57:13? - Finished Spring Data repository scanning in 183 ms. Found 1 JPA repository interfaces.
+""?2022-09-02 12:57:16? - Tomcat initialized with port(s): 8080 (http)
+""?2022-09-02 12:57:16? - Starting service [Tomcat]
+""?2022-09-02 12:57:16? - Starting Servlet engine: [Apache Tomcat/9.0.64]
+""?2022-09-02 12:57:16? - Initializing Spring embedded WebApplicationContext
+""?2022-09-02 12:57:16? - Root WebApplicationContext: initialization completed in 5629 ms
+""?2022-09-02 12:57:16? - HikariPool-1 - Starting...
+""?2022-09-02 12:57:17? - HikariPool-1 - Start completed.
+""?2022-09-02 12:57:17? - H2 console available at '/h2-ui'. Database available at 'jdbc:h2:mem:testdb'
+""?2022-09-02 12:57:18? - HHH000204: Processing PersistenceUnitInfo [name: default]
+""?2022-09-02 12:57:18? - HHH000412: Hibernate ORM core version 5.6.9.Final
+""?2022-09-02 12:57:18? - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+""?2022-09-02 12:57:19? - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+""?2022-09-02 12:57:21? - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""?2022-09-02 12:57:21? - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""?2022-09-02 12:57:22? - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""?2022-09-02 12:57:24? - Tomcat started on port(s): 8080 (http) with context path ''
+""?2022-09-02 12:57:24? - Started RestApiApplication in 15.297 seconds (JVM running for 18.483)
+""?2022-09-02 12:58:03? - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""?2022-09-02 12:58:03? - Initializing Servlet 'dispatcherServlet'
+""?2022-09-02 12:58:03? - Completed initialization in 9 ms
+""?2022-09-02 12:59:46? - START SAVE Operation
+""?2022-09-02 12:59:46? - END SAVE Operation
+""?2022-09-02 12:59:53? - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('=' (code 61)): was expecting a colon to separate field name and value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('=' (code 61)): was expecting a colon to separate field name and value<EOL> at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 2, column: 12]]
+"
